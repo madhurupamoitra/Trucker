@@ -1,2 +1,1 @@
-Read Me
-** FOR THE TRUCKER **
+This is a Read Me file
